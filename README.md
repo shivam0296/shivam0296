@@ -1,14 +1,12 @@
 # Hi there, I'm Shivam Mishra! 👋
 
 ## 🚀 About Me
-I'm a Data Engineer passionate about turning complex data into actionable insights. Specializing in building scalable data pipelines, data modeling, and analytics.
+Software and Data professional, passionate about turning complex data into actionable insights. Specializing in building scalable data pipelines, data modeling, and analytics.
+seeking full-time Data Analyst, Data Engineer positions, starting May 24.
 
-- 🎓 Graduate Student at Indiana University with a degree in Data Science.
+- 🎓 Graduate Student at Indiana University with a Masters degree in Data Science.
 - 🔭 Working on python and cloud projects.
 - 💬 Ask me about data engineering, analytics, and cloud computing.
-
-## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## 💻 Technical Skills
 #### Languages & Frameworks
@@ -25,22 +23,11 @@ I'm a Data Engineer passionate about turning complex data into actionable insigh
 #### Others
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 
-## 🛠️ Projects
-Here are some projects I've worked on:
-
-### [Project Title 1](#)
-- Brief description and technologies used.
-
-### [Project Title 2](#)
-- Brief description and technologies used.
-
-*More projects can be found in my [GitHub repositories](https://github.com/your-github-username).*
-
 ## 📫 How to Reach Me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-your-linkedin-username-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)
-- Email: `your-email@example.com`
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivam-mishra0296-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-mishra0296/)
+- Email: `shivam4dev@gmail.com`
 
 ---
 
-⭐ From [your-github-username](https://github.com/your-github-username)
+⭐ From shivam0296(https://github.com/your-github-username)
 
