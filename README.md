@@ -29,5 +29,5 @@ seeking full-time Data Analyst, Data Engineer positions, starting May 24.
 
 ---
 
-⭐ From shivam0296(https://github.com/your-github-username)
+⭐ From shivam0296(https://github.com/shivam0296)
 
