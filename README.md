@@ -24,10 +24,9 @@ seeking full-time Data Analyst, Data Engineer positions, starting May 24.
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
 
 ## 📫 How to Reach Me
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivam-mishra0296-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivam-mishra0296/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/shivam-mishra0296/)
 - Email: `shivam4dev@gmail.com`
 
----
 
 ⭐ From shivam0296(https://github.com/shivam0296)
 
